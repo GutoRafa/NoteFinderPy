@@ -2,6 +2,7 @@ import time
 import keyboard
 import random
 
+
 bpm = int(input('Digite o tempo desejado '))
 valor_nota = int(input('Digite o valor da nota 4, 8, 16, 32 ')) * 2
 nota = ['A','A#','B','C','C#','D','D#','E','F','F#','G','G#']
